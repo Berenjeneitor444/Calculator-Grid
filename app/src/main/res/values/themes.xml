@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GridCalculator" parent="Theme.AppCompat.DayNight">
+    </style>
+
+    <style name="Theme.GridCalculator" parent="Base.Theme.GridCalculator"/>
+</resources>
